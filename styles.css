@@ -1,0 +1,65 @@
+body {
+    color: black;
+    background-color: lightblue;
+}
+
+header{
+    border: solid 2px rgb(42, 122, 228);
+
+
+
+}
+
+section {
+    background: rgb(aad3e1);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+header {
+font-size: 32px;
+
+}
+  
+  .categoria-videos img {
+    display: flex;
+    overflow-x: auto;
+    width: 200px;
+    gap: 10px;
+    opacity: 0.5;
+       
+  }
+  
+  .categoria-videos img:hover {
+    opacity: 1.0;
+}
+
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .chamada {
+    background: rgb(000, 000, 222);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+  }
+  
+  
+  
+  
